@@ -1,6 +1,6 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=stella-wanjiku&icon=0&color=0)](https://visitcount.itsvg.in)
-🔭 I’m currently working on my course PLP<br>🌱 I’m currently learning JavaScript<br>👯 I’m looking to collaborate on open-source<br>💬 Ask me about Web Development <br>⚡ Fun fact: ...
+🔭 I’m currently working on my course BSC IT<br>🌱 I’m currently learning JavaScript<br>👯 I’m looking to collaborate on open-source<br>💬 Ask me about Web Development <br>⚡ Fun fact: ...
 
 
 # 💻 Tech Stack:
